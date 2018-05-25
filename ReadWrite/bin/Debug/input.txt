@@ -1,0 +1,6 @@
+abc   	ABC
+bird    brd
+1234    12345
+a	b
+little	Little
+3=5a5	3=4a5

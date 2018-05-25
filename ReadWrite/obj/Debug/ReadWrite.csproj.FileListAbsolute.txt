@@ -1,0 +1,9 @@
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe.config
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\bin\Debug\ReadWrite.pdb
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\obj\Debug\ReadWrite.Form1.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\obj\Debug\ReadWrite.Properties.Resources.resources
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.GenerateResource.Cache
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\obj\Debug\ReadWrite.exe
+C:\Users\s220500\Desktop\Jadon Fournier\Unit 5\ReadWriteJadonF\ReadWrite\ReadWrite\obj\Debug\ReadWrite.pdb
